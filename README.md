@@ -1,6 +1,6 @@
 # darzo
 
-A new Flutter project.
+A group project developed as a team.
 
 ## Getting Started
 
